@@ -1,0 +1,22 @@
+.pd-normal {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.pd-bottom {
+    padding-bottom: 3%;
+}
+
+.file-input-label {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 0.5rem;
+    background-color: #4267b2; 
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.file-input-label:hover {
+    background-color: #314a86;
+}
